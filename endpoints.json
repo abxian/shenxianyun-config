@@ -1,12 +1,11 @@
 {
   "version": 1,
   "api_bases": [
-    "https://sxnn.de",
     "http://114.80.36.225:5010",
-    "https://sub.jc116.com"
+    "https://sxnn.de"
   ],
   "sub_base": "https://sxnn.de",
   "download_base": "http://114.80.36.225:5011",
   "bootstrap_proxy": "",
-  "updated_at": "2026-07-15 06:22:39"
+  "updated_at": "2026-07-15 07:13:36"
 }
