@@ -3,8 +3,8 @@
   "updated_at": "2026-07-14",
   "api_bases": [
     "https://sub.jc116.com",
-    "https://sxnn.de",
-    "http://114.80.36.225:5010"
+    "http://114.80.36.225:5010",
+    "https://sxnn.de"
   ],
   "sub_base": "http://114.80.36.225:5010",
   "download_base": "http://114.80.36.225:5011",
