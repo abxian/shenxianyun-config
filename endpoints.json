@@ -3,10 +3,10 @@
   "updated_at": "2026-07-14",
   "api_bases": [
     "https://sub.jc116.com",
-    "http://114.80.36.225:5010",
-    "https://dl.010199.xyz"
+    "https://sxnn.de",
+    "http://114.80.36.225:5010"
   ],
-  "sub_base": "https://sub.jc116.com",
+  "sub_base": "https://sxnn.de",
   "download_base": "http://114.80.36.225:5011",
-  "notes": "客户端按 api_bases 顺序探测可用后端；sub_base=订阅文件地址；download_base=APK/客户端下载(dufs)。dl.010199.xyz 解析并上HTTPS后，把 download_base 换成 https://dl.010199.xyz。"
+  "notes": "api_bases=API/验证/心跳后端(按序探测)；sub_base=订阅文件地址(sxnn.de 反代，分流主站带宽)；download_base=APK/客户端下载(dufs 静态站)。改地址只改后台+这里，不用重发客户端。"
 }
