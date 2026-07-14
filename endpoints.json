@@ -6,7 +6,7 @@
     "https://sxnn.de",
     "http://114.80.36.225:5010"
   ],
-  "sub_base": "https://sxnn.de",
+  "sub_base": "http://114.80.36.225:5010",
   "download_base": "http://114.80.36.225:5011",
   "notes": "api_bases=API/验证/心跳后端(按序探测)；sub_base=订阅文件地址(sxnn.de 反代，分流主站带宽)；download_base=APK/客户端下载(dufs 静态站)。改地址只改后台+这里，不用重发客户端。"
 }
