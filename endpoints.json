@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-07-07",
+  "updated_at": "2026-07-14",
   "api_bases": [
     "https://sub.jc116.com",
-    "https://dl.010199.xyz",
-    "http://114.80.36.225:5010"
+    "http://114.80.36.225:5010",
+    "https://dl.010199.xyz"
   ],
   "sub_base": "https://sub.jc116.com",
-  "download_base": "https://dl.010199.xyz",
-  "notes": "客户端按 api_bases 顺序探测可用后端；sub_base=订阅文件地址；download_base=APK/客户端下载(dufs)。改地址只改这里+后台,不用重发客户端。"
+  "download_base": "http://114.80.36.225:5011",
+  "notes": "客户端按 api_bases 顺序探测可用后端；sub_base=订阅文件地址；download_base=APK/客户端下载(dufs)。dl.010199.xyz 解析并上HTTPS后，把 download_base 换成 https://dl.010199.xyz。"
 }
