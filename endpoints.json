@@ -6,7 +6,7 @@
     "https://sxnn.de"
   ],
   "sub_base": "https://api.sxnn.de:5443",
-  "download_base": "http://114.80.36.225:5011",
+  "download_base": "https://sxy.sxnn.de:5443",
   "bootstrap_proxy": "",
-  "updated_at": "2026-07-15 08:42:06"
+  "updated_at": "2026-07-15 11:53:46"
 }
